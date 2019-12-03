@@ -31,6 +31,8 @@ if (login_status_code == 200) {
 	
     GlobalVariable.LoginIdToken = result.id_token
 
+
+	
 	println('Printing Token')	
    
 	println('IdToken:' + GlobalVariable.LoginIdToken)
