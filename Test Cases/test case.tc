@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0538dfec-94e2-4f27-921f-058e944e4cdc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bcf46e5b-7b0f-4f69-82d6-9d4eb2b2a96d</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84933fe5-eac1-478e-966f-43fd67fe46cc</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acfef8f6-9673-46f9-a1f7-b4c27a67af7b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>466af607-ea43-4e90-a6a0-b1ff68626bf0</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>305321f2-ed90-4eb4-84d0-3d671732fd49</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

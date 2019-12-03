@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_After_login_try_to_add_more_contact_to_user_with_different_type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d581ee-581b-4423-8cd4-0ead339f0534</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6edaaca6-f13d-4a6d-9ab4-375ddcc75809</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36007964-513a-4ec9-a4ad-9194b4794841</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1000923-b797-41df-bc38-6378f617c2ca</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e23c836-2c4c-471a-918b-2453be74a3e4</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_SIGNUP_only_manadatory_fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7399302-a7ec-40ef-99f7-167ecb04706c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9dfa23cf-4d7b-4fac-87bb-c249cde86c6f</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3109d8ad-0566-4f4c-bbc3-ae8a43e42c2c</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b95939e1-7348-4244-b9b9-8a8e3082b3c2</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4135e07f-f079-4c81-b359-3db13e5a8428</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f607e88-1e17-4a14-82e7-6ab8199de6cc</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

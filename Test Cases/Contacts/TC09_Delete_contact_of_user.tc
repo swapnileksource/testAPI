@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_Delete_contact_of_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>440ea67a-7835-4ab8-9e52-a009e45cb413</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51050cd5-97cd-4c06-97f3-69e9a018608b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>292e3b4a-34ab-4749-ba8a-dce5ef49ffa2</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b71e7b7c-ab18-438d-b570-acc879740d04</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>767ac989-ecfb-46dc-a97c-8b2a2556de83</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

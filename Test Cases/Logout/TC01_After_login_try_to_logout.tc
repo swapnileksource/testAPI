@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_After_login_try_to_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7315310-bfb5-42db-b8a3-1adac1d08b9b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e9d21e5-210a-438c-bbc8-a7e1f58f0c61</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47e20d5d-a643-4dad-a5cd-5dbf9b39cc0c</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

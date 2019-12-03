@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_After_login_try_to_add_contact_to_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f13ef17c-3558-4a04-839d-6d4a6fc948b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7f17c61-1fcc-472a-aa78-f09d5ce2629c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa360207-8392-4fd3-877f-ea36f355014b</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>949b3e22-60f2-470e-bf00-cfb45e71fb41</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27adb9ea-380e-4cd3-a77a-c9cfbd8382ad</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

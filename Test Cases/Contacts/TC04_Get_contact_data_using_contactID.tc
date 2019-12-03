@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get_contact_data_using_contactID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1022d4f-d536-4851-8e0c-3ead37237fde</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>908be4cc-8845-4ede-bf79-3e1a070252a6</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcd9b5af-b5f1-41c3-a811-7ee0421cdee3</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54fe602e-ed1d-4e58-a439-d95348e43af5</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20c067fe-8f4e-45a8-8048-b5a177cc972e</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

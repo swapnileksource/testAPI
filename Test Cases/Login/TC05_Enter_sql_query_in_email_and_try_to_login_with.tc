@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Enter_sql_query_in_email_and_try_to_login_with</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e78cd39-10e7-4d66-a0cd-db13ddc2cc38</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c214b60-20b9-4458-a587-c95015dfceb7</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8594d6a2-99e4-460b-a3b1-9bb128fdf256</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

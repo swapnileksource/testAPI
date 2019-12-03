@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Delete_contact_of_user_and_try_to_search_deleted_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fa659a4-7860-4d38-8e5e-39cc071f10c6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>961eaa91-f7fe-4a1e-adf6-7388cb5a7138</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdcac55f-f017-4f87-967d-492a6fabfe77</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d433b607-0946-46bc-b223-203076e74fff</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06c2c643-8b53-41ea-bf95-48f168f81424</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

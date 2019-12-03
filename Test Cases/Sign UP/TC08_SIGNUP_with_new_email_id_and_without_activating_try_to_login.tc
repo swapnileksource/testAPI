@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_SIGNUP_with_new_email_id_and_without_activating_try_to_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>176ac0da-68ce-42c8-bd9e-e224d6e7614b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7271a824-a47e-47f1-a88b-e584381d2c84</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bad636c3-0847-40ae-a90f-dcc862da5b4d</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7fbf152d-1c2b-4e5e-9619-2502349a6956</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d422414f-32cf-4ce3-a63d-1714934a8bdd</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>842f0e91-ed24-459f-a62b-d5d9bbc78e00</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

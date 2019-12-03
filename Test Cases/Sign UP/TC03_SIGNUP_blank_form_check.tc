@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_SIGNUP_blank_form_check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1553201-322b-4e88-be4b-f6c906784ef5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>048c44c9-d346-42c3-93c5-9e254cef2015</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6414ce8e-74de-4ff8-beca-23bff9a16ae8</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1e60f83-0ecd-4c6c-8c32-4de1159acd4b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d32694de-274b-43f6-87ab-99d7556c7252</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4aae2e2e-09f3-4128-9101-c0e0c413d329</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

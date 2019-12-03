@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Edit_contact_info_of_the_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f535e72-740b-4db5-917a-cd0a7786c9e1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>beacf690-f705-4bee-9b5d-cce4a67b4eff</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6904983-b894-4beb-9544-842225c38c59</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b5d75de-915c-49ec-bbb8-23444d38c01c</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5630e18d-f4d9-4371-873c-9e6b5f6a7f20</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

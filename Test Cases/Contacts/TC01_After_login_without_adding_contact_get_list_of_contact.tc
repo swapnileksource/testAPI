@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_After_login_without_adding_contact_get_list_of_contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e893d8-15d9-4ba4-a728-8f7fbb34155c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9a0b642-266f-4f3f-8e22-66e8777c9b0f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d017365b-745b-41b5-89b5-9fb299e3446e</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d08f9a55-f8b1-4b8b-bc76-9a3556bb39de</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0c44ece-2dd2-4467-ad1d-f2bafdd432fa</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

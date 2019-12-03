@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_SIGNUP_with_new_email_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bd53c9c-ab07-4a40-9f98-093ad681533a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73efac2a-7ce6-4a17-8d5f-7aac2800e419</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be3107b8-16fd-4fa6-9d0b-2614443c2405</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4887ac7-8aa5-4b29-8dbe-dc478c7ce29a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa8ef6f0-8289-4fd6-8add-71c5c7a2b1c4</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e04c568-0c1f-4a9f-affd-73cc01cdb0d2</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

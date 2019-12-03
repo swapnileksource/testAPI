@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login_with_not_registered_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d086dd1b-4cf4-427c-83c6-3b6601657c6d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>036c4964-cee3-4341-99b2-2b60c489941b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>908733e1-1b00-4fb9-9c36-eba1f4c8ee95</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

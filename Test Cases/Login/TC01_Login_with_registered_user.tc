@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Login_with_registered_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4046550-7d4e-4e52-ba7c-f8c737dfb602</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>174a3aca-d9ec-4d63-8520-b9f3ca9da71d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6370082b-3fdc-4cd7-b846-2fd5e933748e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

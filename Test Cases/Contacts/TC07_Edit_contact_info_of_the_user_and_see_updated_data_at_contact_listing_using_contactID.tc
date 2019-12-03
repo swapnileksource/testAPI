@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Edit_contact_info_of_the_user_and_see_updated_data_at_contact_listing_using_contactID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04dcae42-73fc-4801-a211-1cb823a35317</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7be36bf7-9bfa-40f2-b5a4-860d33074e4e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58445b40-3a26-4466-9eb2-603940480459</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd1eabfc-4269-4e38-bea7-d38219fc7367</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a01d34be-22d5-4e43-a810-ff87b0fe6ab2</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

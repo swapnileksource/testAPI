@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_SIGNUP_with_existing_email_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15169fb9-85a0-4cad-9fb5-14022bc2b9d5</testCaseGuid>
+   <variable>
+      <defaultValue>'matin'</defaultValue>
+      <description></description>
+      <id>dca482c0-3a3e-45b8-a879-db4c539df084</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>'crow'</defaultValue>
+      <description></description>
+      <id>4d32fbda-4890-4e38-8abc-f14ebd0da9bb</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>'skamble+21@spplus.com'</defaultValue>
+      <description></description>
+      <id>31a477ce-eb83-4fb7-8162-fa84812768b7</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>9ead870d-b205-431b-bdfc-9293b24e64d1</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>514cb672-8720-4f9d-a195-5254cff5a71f</id>
+      <masked>false</masked>
+      <name>confpass</name>
+   </variable>
+</TestCaseEntity>

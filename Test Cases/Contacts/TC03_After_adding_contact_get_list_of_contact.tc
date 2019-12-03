@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_After_adding_contact_get_list_of_contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93dde4ed-1563-4d90-ba03-99692446a3b9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>935e40a9-3523-4b74-b9d4-1e518a10681e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a37b271e-3aff-48a8-be73-1c92d96ab0c5</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1744b10c-4cbb-435f-8487-93e23881ab78</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5615049-933a-488b-9da6-4ac8e8ee719b</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>
