@@ -31,7 +31,9 @@ if (login_status_code == 200) {
 	
     GlobalVariable.LoginIdToken = result.id_token
 
-    println('IdToken:' + GlobalVariable.LoginIdToken)
+    println('Printing Token')
+	
+	println('IdToken:' + GlobalVariable.LoginIdToken)
 
     KeywordUtil.logInfo('IdToken: ' + GlobalVariable.LoginIdToken)
 
